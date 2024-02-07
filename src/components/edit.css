@@ -1,0 +1,11 @@
+.img{
+    width:900px;
+    height:500px;
+}
+
+.edit-container{
+    display: grid;
+    margin:10px;
+    width:500px
+}
+
